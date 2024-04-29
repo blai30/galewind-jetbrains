@@ -1,6 +1,6 @@
 {
-  "name": "Galewind Dark",
-  "editorScheme": "themes/GalewindDark.xml",
+  "name": "Galewind Black",
+  "editorScheme": "themes/GalewindBlack.xml",
   "author": "blai30",
   "dark": true,
   "colors": {
@@ -24,7 +24,7 @@
     "zinc600": "#52525B",
     "zinc700": "#3F3F46",
     "zinc800": "#27272A",
-    "zinc900": "#18181B",
+    "zinc900": "#000000",
     "zinc950": "#09090B"
   },
   "ui": {
