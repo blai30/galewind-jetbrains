@@ -85,7 +85,8 @@
         "background": "zinc900",
         "foreground": "zinc100"
       },
-      "matchForeground": "rose500"
+      "selectionBackground": "zinc800",
+      "matchForeground": "rose400"
     },
     "DragAndDrop": {
       "borderColor": "zinc800",
