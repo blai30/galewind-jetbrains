@@ -99,11 +99,11 @@
       "underlineColor": "rose500"
     },
     "Link": {
-      "activeForeground": "rose600",
-      "hoverForeground": "rose600",
-      "pressedForeground": "rose600",
-      "secondaryForeground": "rose600",
-      "visitedForeground": "rose600"
+      "activeForeground": "rose400",
+      "hoverForeground": "rose400",
+      "pressedForeground": "rose400",
+      "secondaryForeground": "rose400",
+      "visitedForeground": "rose400"
     },
     "MemoryIndicator": {
       "allocatedBackground": "zinc800",
