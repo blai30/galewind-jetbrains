@@ -1004,25 +1004,25 @@
     </option>
     <option name="INLAY_DEFAULT">
       <value>
-        <option name="FOREGROUND" value="d4d4d8" />
+        <option name="FOREGROUND" value="a1a1aa" />
         <option name="BACKGROUND" value="9090b" />
       </value>
     </option>
     <option name="INLINE_PARAMETER_HINT">
       <value>
-        <option name="FOREGROUND" value="d4d4d8" />
+        <option name="FOREGROUND" value="a1a1aa" />
         <option name="BACKGROUND" value="9090b" />
       </value>
     </option>
     <option name="INLINE_PARAMETER_HINT_CURRENT">
       <value>
-        <option name="FOREGROUND" value="d4d4d8" />
+        <option name="FOREGROUND" value="a1a1aa" />
         <option name="BACKGROUND" value="83344" />
       </value>
     </option>
     <option name="INLINE_PARAMETER_HINT_HIGHLIGHTED">
       <value>
-        <option name="FOREGROUND" value="d4d4d8" />
+        <option name="FOREGROUND" value="a1a1aa" />
         <option name="BACKGROUND" value="9090b" />
       </value>
     </option>
