@@ -99,6 +99,14 @@
       "underlinedTabBackground": "zinc900",
       "underlineColor": "rose500"
     },
+    "FileColor": {
+      "Blue": "#BFDBFE1A",
+      "Green": "#BBF7D01A",
+      "Orange": "#FED7AA1A",
+      "Rose": "#FECDD31A",
+      "Violet": "#DDD6FE1A",
+      "Yellow": "#FEF9C31A"
+    },
     "Link": {
       "activeForeground": "rose400",
       "hoverForeground": "rose400",
