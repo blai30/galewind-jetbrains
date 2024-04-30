@@ -100,12 +100,12 @@
       "underlineColor": "rose500"
     },
     "FileColor": {
-      "Blue": "#BFDBFE1A",
-      "Green": "#BBF7D01A",
-      "Orange": "#FED7AA1A",
-      "Rose": "#FECDD31A",
-      "Violet": "#DDD6FE1A",
-      "Yellow": "#FEF9C31A"
+      "Blue": "#BFDBFE10",
+      "Green": "#BBF7D010",
+      "Orange": "#FED7AA10",
+      "Rose": "#FECDD310",
+      "Violet": "#DDD6FE10",
+      "Yellow": "#FEF9C310"
     },
     "Link": {
       "activeForeground": "rose400",
