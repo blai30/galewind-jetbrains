@@ -1,8 +1,8 @@
 # Galewind Theme
 
 ![Build](https://github.com/blai30/galewind-jetbrains/workflows/Build/badge.svg)
-[![Version](https://img.shields.io/jetbrains/plugin/v/PLUGIN_ID.svg)](https://plugins.jetbrains.com/plugin/24303-galewind-theme)
-[![Downloads](https://img.shields.io/jetbrains/plugin/d/PLUGIN_ID.svg)](https://plugins.jetbrains.com/plugin/24303-galewind-theme)
+[![Version](https://img.shields.io/jetbrains/plugin/v/24303-galewind-theme.svg)](https://plugins.jetbrains.com/plugin/24303-galewind-theme)
+[![Downloads](https://img.shields.io/jetbrains/plugin/d/24303-galewind-theme.svg)](https://plugins.jetbrains.com/plugin/24303-galewind-theme)
 
 ## Galewind Dark
 
