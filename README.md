@@ -4,14 +4,6 @@
 [![Version](https://img.shields.io/jetbrains/plugin/v/24303-galewind-theme.svg)](https://plugins.jetbrains.com/plugin/24303-galewind-theme)
 [![Downloads](https://img.shields.io/jetbrains/plugin/d/24303-galewind-theme.svg)](https://plugins.jetbrains.com/plugin/24303-galewind-theme)
 
-## Galewind Dark
-
-<img src="https://github.com/blai30/galewind-jetbrains/blob/main/screenshot_dark.png?raw=true" alt="dark">
-
-## Galewind Black
-
-<img src="https://github.com/blai30/galewind-jetbrains/blob/main/screenshot_black.png?raw=true" alt="black">
-
 ## Installation
 
 - Using the IDE built-in plugin system:
@@ -23,6 +15,14 @@
 
   Download the [latest release](https://github.com/blai30/galewind-jetbrains/releases/latest) and install it manually using
   <kbd>Settings/Preferences</kbd> > <kbd>Plugins</kbd> > <kbd>⚙️</kbd> > <kbd>Install plugin from disk...</kbd>
+
+## Galewind Dark
+
+<img src="https://github.com/blai30/galewind-jetbrains/blob/main/screenshot_dark.png?raw=true" alt="dark">
+
+## Galewind Black
+
+<img src="https://github.com/blai30/galewind-jetbrains/blob/main/screenshot_black.png?raw=true" alt="black">
 
 
 ---
