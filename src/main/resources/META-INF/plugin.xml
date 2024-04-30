@@ -1,6 +1,6 @@
 <!-- Plugin Configuration File. Read more: https://plugins.jetbrains.com/docs/intellij/plugin-configuration-file.html -->
 <idea-plugin>
-    <id>com.github.blai30.galewindtheme</id>
+    <id>com.github.blai30.GalewindTheme</id>
     <name>Galewind Theme</name>
     <vendor>blai30</vendor>
     <version>1.1.1</version>
