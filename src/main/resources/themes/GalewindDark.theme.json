@@ -1,0 +1,152 @@
+{
+  "name": "Galewind Dark",
+  "editorScheme": "themes/GalewindDark.xml",
+  "author": "blai30",
+  "dark": true,
+  "colors": {
+    "rose50": "#FFF1F2",
+    "rose100": "#FFE4E6",
+    "rose200": "#FECDD3",
+    "rose300": "#FDA4AF",
+    "rose400": "#FB7185",
+    "rose500": "#F43F5E",
+    "rose600": "#E11D48",
+    "rose700": "#BE123C",
+    "rose800": "#9F1239",
+    "rose900": "#881337",
+    "rose950": "#4C0519",
+    "zinc50": "#FAFAFA",
+    "zinc100": "#F4F4F5",
+    "zinc200": "#E4E4E7",
+    "zinc300": "#D4D4D8",
+    "zinc400": "#A1A1AA",
+    "zinc500": "#71717A",
+    "zinc600": "#52525B",
+    "zinc700": "#3F3F46",
+    "zinc800": "#27272A",
+    "zinc900": "#18181B",
+    "zinc950": "#09090B"
+  },
+  "ui": {
+    "window": "zinc900",
+    "*": {
+      "rowHeight": 24,
+      "rowHeight.compact": 22,
+      "background": "zinc900",
+      "foreground": "zinc100",
+      "borderColor": "zinc800",
+      "disabledBorderColor": "zinc600",
+      "caretForeground": "rose200",
+      "separatorColor": "zinc700",
+      "underlineColor": "rose500",
+      "inactiveBackground": "zinc900",
+      "inactiveForeground": "zinc400",
+      "inactiveUnderlineColor": "zinc600",
+      "selectionBackground": "rose800",
+      "selectionInactiveBackground": "zinc800",
+      "selectionForeground": "rose50",
+      "focus": "rose900",
+      "focusColor": "rose900",
+      "focusedBorderColor": "rose300",
+      "hoverBackground": "zinc800",
+      "hoverForeground": "rose500",
+      "hoverBorderColor": "zinc800",
+      "pressedBackground": "zinc700",
+      "pressedBorderColor": "zinc700",
+      "lightSelectionBackground": "rose800",
+      "lightSelectionForeground": "rose50",
+      "lightSelectionInactiveBackground": "zinc800",
+      "lightSelectionInactiveForeground":"zinc400"
+    },
+    "Borders.color": "zinc800",
+    "Button": {
+      "startBackground": "zinc800",
+      "endBackground": "zinc800",
+      "startBorderColor": "zinc600",
+      "endBorderColor": "zinc600",
+      "default": {
+        "foreground": "zinc100",
+        "startBackground": "rose700",
+        "endBackground": "rose700",
+        "startBorderColor": "rose700",
+        "endBorderColor": "rose700"
+      }
+    },
+    "CheckBox": {
+      "select": "zinc100"
+    },
+    "ComboBox": {
+      "nonEditableBackground": "zinc950",
+      "ArrowButton.background": "zinc950",
+      "ArrowButton.nonEditableBackground": "zinc950"
+    },
+    "CompletionPopup": {
+      "Advertiser": {
+        "background": "zinc900",
+        "foreground": "zinc100"
+      },
+      "selectionBackground": "rose900",
+      "matchForeground": "#fcd34d"
+    },
+    "DragAndDrop": {
+      "borderColor": "rose700",
+      "rowBackground": "#4C051930",
+      "areaBackground": "zinc800",
+      "areaForeground": "#BABABA"
+    },
+    "EditorTabs": {
+      "background": "zinc900",
+      "underlinedTabBackground": "zinc900",
+      "underlineColor": "rose500"
+    },
+    "FileColor": {
+      "Blue": "#BFDBFE10",
+      "Green": "#BBF7D010",
+      "Orange": "#FED7AA10",
+      "Rose": "#FECDD310",
+      "Violet": "#DDD6FE10",
+      "Yellow": "#FEF9C310"
+    },
+    "Link": {
+      "activeForeground": "rose400",
+      "hoverForeground": "rose400",
+      "pressedForeground": "rose400",
+      "secondaryForeground": "rose400",
+      "visitedForeground": "rose400"
+    },
+    "List": {
+      "Button": {
+        "hoverBackground": "rose700"
+      }
+    },
+    "MemoryIndicator": {
+      "allocatedBackground": "zinc800",
+      "usedBackground": "zinc700"
+    },
+    "Notification": {
+      "background": "zinc800"
+    },
+    "NotificationsToolwindow": {
+      "newNotification.background": "zinc800",
+      "newNotification.hoverBackground": "rose950"
+    },
+    "Plugins": {
+      "Tab": {
+        "hoverBackground": "rose800",
+        "selectedBackground": "zinc900"
+      },
+      "lightSelectionBackground": "rose800"
+    },
+    "Settings.Spotlight.borderColor": "#fef08a",
+    "TextField": {
+      "background": "zinc950"
+    },
+    "ToolWindow": {
+      "Button.selectedBackground": "rose800"
+    },
+    "Tree": {
+      "hash": "zinc700",
+      "selectionInactiveForeground": "zinc50"
+    }
+  }
+}
