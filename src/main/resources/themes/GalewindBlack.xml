@@ -1,7 +1,7 @@
 <scheme name="Galewind Black" version="142" parent_scheme="Darcula">
   <metaInfo>
     <property name="ide">Idea</property>
-    <property name="ideVersion">2024.1.0.0</property>
+    <property name="ideVersion">2024.1.1.0.0</property>
   </metaInfo>
   <colors>
     <option name="ADDED_LINES_COLOR" value="a6e3a1" />
@@ -10,6 +10,7 @@
     <option name="CARET_ROW_COLOR" value="18181b" />
     <option name="CONSOLE_BACKGROUND_KEY" value="000000" />
     <option name="DELETED_LINES_COLOR" value="eba0ac" />
+    <option name="DOCUMENTATION_COLOR" value="000000" />
     <option name="FILESTATUS_ADDED" value="86efac" />
     <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="a8a29e" />
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="fdba74" />
@@ -24,6 +25,7 @@
     <option name="FILESTATUS_changelistConflict" value="fdba74" />
     <option name="FILESTATUS_modifiedOutside" value="67e8f9" />
     <option name="GUTTER_BACKGROUND" value="000000" />
+    <option name="LOOKUP_COLOR" value="000000" />
     <option name="MODIFIED_LINES_COLOR" value="fab387" />
     <option name="SELECTION_BACKGROUND" value="5e333c" />
     <option name="VCS_ANNOTATIONS_COLOR_1" value="8670a7" />
